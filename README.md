@@ -1,2 +1,3 @@
-# Learning-Python
-A repo of small programs I made while learning about Python.
+# Learning-Python   :   PyShop
+
+    A small mock e-commerce site made using Django.
